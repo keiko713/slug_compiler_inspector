@@ -20,5 +20,8 @@ fi | indent
 echo "----- ruby version -----"
 echo `ruby -v`
 
+echo "-----  which ruby  -----"
+echo `which ruby`
+
 echo "-----     PATH     -----"
 echo $PATH
